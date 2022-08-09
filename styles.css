@@ -128,8 +128,9 @@ span {
     margin-top: 50px;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 80%;
     min-height: 100%;
+    overflow-x: hidden;
  }
  .left-item{
     text-align: center;
@@ -149,11 +150,11 @@ span {
  }
  .trial-card {
     padding: 15px 50px;
-    margin-left: -70px;
+    margin-left: -50px;
     margin-right: 30px;
  }
  .form {
-    margin-left: -70px;
+    margin-left: -50px;
     margin-right: 30px;
  }
  .author {
